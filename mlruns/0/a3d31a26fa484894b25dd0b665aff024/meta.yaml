@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Gary.Hutson/Documents/GitHub/MLFlow_Python/mlruns/0/a3d31a26fa484894b25dd0b665aff024/artifacts
+end_time: 1641921537522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a3d31a26fa484894b25dd0b665aff024
+run_uuid: a3d31a26fa484894b25dd0b665aff024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641921535448
+status: 3
+tags: []
+user_id: Gary.Hutson
