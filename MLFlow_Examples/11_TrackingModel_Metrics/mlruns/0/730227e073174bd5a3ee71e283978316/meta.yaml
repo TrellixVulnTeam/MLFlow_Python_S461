@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Gary.Hutson/Documents/GitHub/MLFlow_Python/MLFlow_Examples/11_TrackingModel_Metrics/mlruns/0/730227e073174bd5a3ee71e283978316/artifacts
+end_time: 1641995091769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 730227e073174bd5a3ee71e283978316
+run_uuid: 730227e073174bd5a3ee71e283978316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641995089387
+status: 4
+tags: []
+user_id: Gary.Hutson

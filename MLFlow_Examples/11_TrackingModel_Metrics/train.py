@@ -29,15 +29,15 @@ with mlflow.start_run():
     dtc.fit(X_train, y_train)
     y_pred_class = dtc.predict(X_test)
     acc = metrics.accuracy_score(y_test, y_pred_class)
-    roc = metrics.roc_auc_score(y_test, y_pred_class)
+    #roc = metrics.roc_auc_score(y_test, y_pred_class)
 
     # Log those bad boy metrics in MLFlow
     mlflow.log_param('random_state', RAND_STATE)
     mlflow.log_metric('accuracy', acc)
-    mlflow.log_metric('roc_auc', roc)
+    #mlflow.log_metric('roc_auc', roc)
     # Log the model
     mlflow.sklearn.log_model(dtc, "model")
-    mdl_path= '/dbfs/mlflow/iris/model-%s-%f' % ('decision_tree',1)
+    mdl_path= 'model-%s-%f' % ('decision_tree',1)
     mlflow.sklearn.save_model(dtc, mdl_path)
     # Could save a confusion matrix here
     #mlflow.log_artifact('image.png')
