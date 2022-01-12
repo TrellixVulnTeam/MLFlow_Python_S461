@@ -1,6 +1,6 @@
 # ML Flow Examples in Python
 
-![](MLFlow_Python/MLFlow_Examples/figures/images/mlflow_logo.png)
+![](MLFlow_Examples/figures/images/mlflow_logo.png)
 
 This contains a repository of all the **MLFlow** examples in Python. The project structure currently contains:
 
