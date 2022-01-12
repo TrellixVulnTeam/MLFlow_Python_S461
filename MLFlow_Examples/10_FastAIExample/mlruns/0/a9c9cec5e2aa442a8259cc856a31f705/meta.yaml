@@ -1,5 +1,5 @@
 artifact_uri: file:///Users/Gary.Hutson/Documents/GitHub/MLFlow_Python/MLFlow_Examples/10_FastAIExample/mlruns/0/a9c9cec5e2aa442a8259cc856a31f705/artifacts
-end_time: null
+end_time: 1641993778529
 entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1641993267435
-status: 1
+status: 4
 tags: []
 user_id: Gary.Hutson
