@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Gary.Hutson/Documents/GitHub/MLFlow_Python/07_Tensorflow_MLFlow/tf2/mlruns/0/fdff409a97b84bd2803e5d0acf404c6c/artifacts
+end_time: 1641990478465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fdff409a97b84bd2803e5d0acf404c6c
+run_uuid: fdff409a97b84bd2803e5d0acf404c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641990303396
+status: 3
+tags: []
+user_id: Gary.Hutson
