@@ -17,7 +17,9 @@ This contains a repository of all the **MLFlow** examples in Python. The project
 11. [Experiment tracking](https://github.com/StatsGary/MLFlow_Python/tree/main/MLFlow_Examples/11_TrackingModel_Metrics) - shows how to track experiments in MLFlow
 12. [**Multiple workstep example in MLFlow**](https://github.com/StatsGary/MLFlow_Python/tree/main/MLFlow_Examples/12_MultiWorkstep_MLFlow) - how to work with multiple workflow steps, as you may want to log metrics from data prep, training and evaluation phases.
 13. [**Hyperparameter tuning and MLFlow**](https://github.com/StatsGary/MLFlow_Python/tree/main/MLFlow_Examples/13_Deploy_with_HP_tuning) - this shows how to log multiple runs when capturing the hyperparameters.
-
+14. - [**Model Registration**](https://www.mlflow.org/docs/latest/model-registry.html) - shows how to register a model using a run ID, experiement ID or in script.
+15. - [**Organising runs into experiments**](https://www.mlflow.org/docs/latest/tracking.html#organizing-runs-in-experiments)
+16. - [**Command Line Interface (CLI) for GCP**](https://www.mlflow.org/docs/latest/cli.html#mlflow-gc) -  aids for working with the command line interface in Google Cloud Platform. To the left there is a menu indicating other cloud deployment options and how to work with MLFlow. 
 
 ## Still to come
 I aim to add a couple more modules on model registration, experiment creation and doing all the steps in script. Watch this space for future additions to this repository.
